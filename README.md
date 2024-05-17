@@ -1,3 +1,3 @@
 # Jogo de Cara ou Coroa
 
-# Atividade de Web Front-End - UTFPR
+## Atividade de Web Front-End - UTFPR
