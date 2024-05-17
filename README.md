@@ -1,1 +1,3 @@
-# jogo-cara-coroa-js-utfpr
+# Jogo de Cara ou Coroa
+
+# Atividade de Web Front-End - UTFPR
